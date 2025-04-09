@@ -1,25 +1,44 @@
-# Todo List - React, Zustand e TypeScript
+# Todo List - React, Zustand, and TypeScript
 
-Este é um projeto simples de lista de tarefas, desenvolvido com **React**, **Zustand** e **TypeScript**. Ele permite adicionar, excluir e marcar tarefas como concluídas, utilizando a biblioteca de gerenciamento de estado `Zustand` para facilitar o controle do estado da aplicação.
+This is a simple todo list project developed with **React**, **Zustand**, and **TypeScript**. It allows users to add, delete, and mark tasks as completed, using the **Zustand** state management library for easy state control.
 
-## Funcionalidades
+## Features
 
-- **Adicionar Tarefas**: Permite ao usuário adicionar novas tarefas à lista.
-- **Marcar como Concluída**: O usuário pode marcar tarefas como concluídas, que serão visualmente alteradas com um risco no texto.
-- **Excluir Tarefas**: O usuário pode remover tarefas da lista.
-- **Interface Responsiva**: A interface foi projetada para ser simples e responsiva, adaptando-se a diferentes tamanhos de tela.
+- **Add Tasks**: Users can add new tasks to the list.
+- **Mark as Completed**: Users can mark tasks as completed, visually crossing out the text.
+- **Delete Tasks**: Users can remove tasks from the list.
+- **Responsive Interface**: The interface is designed to be simple and responsive, adapting to different screen sizes.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **React**: Biblioteca para construção da interface de usuário.
-- **TypeScript**: Superset do JavaScript que oferece tipagem estática.
-- **Zustand**: Biblioteca de gerenciamento de estado simples e eficaz.
-- **styled-components**: Biblioteca para estilização de componentes em React.
-- **react-icons**: Biblioteca para ícones, utilizada para adicionar ícones nos botões.
+- **React**: Library for building the user interface.
+- **TypeScript**: Superset of JavaScript with static typing.
+- **Zustand**: Simple and effective state management library.
+- **styled-components**: Library for styling React components.
+- **react-icons**: Library for adding icons, used in the buttons.
 
-## Como Rodar o Projeto
+## How to Run the Project
 
-### 1. Clonar o repositório
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seunome/todo-list-zustand-typescript.git
+git clone https://github.com/yourusername/todo-list-zustand-typescript.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd todo-list-zustand-typescript
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the application
+
+```bash
+npm start
+```
