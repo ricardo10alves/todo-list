@@ -50,3 +50,7 @@ npm start
   - **store/**: Contains the Zustand configuration to manage the todo list state.
   - **App.tsx**: Main component that renders the application.
   - **index.tsx**: The entry point for the application.   
+
+## License
+
+This project is licensed under the MIT License.
