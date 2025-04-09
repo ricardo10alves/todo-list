@@ -1,4 +1,4 @@
-# Todo List - React, Zustand, and TypeScript
+# Todo List
 
 This is a simple todo list project developed with **React**, **Zustand**, and **TypeScript**. It allows users to add, delete, and mark tasks as completed, using the **Zustand** state management library for easy state control.
 
