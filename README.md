@@ -19,29 +19,29 @@ This is a simple todo list project developed with **React**, **Zustand**, and **
 
 ## How to Run the Project
 
-### 1. Clone the repository
+1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/todo-list-zustand-typescript.git
-```
+  ```bash
+  git clone https://github.com/yourusername/todo-list-zustand-typescript.git
+  ```
 
-### 2. Navigate to the project directory
+2. Navigate to the project directory
 
-```bash
-cd todo-list-zustand-typescript
-```
+  ```bash
+  cd todo-list-zustand-typescript
+  ```
 
-### 3. Install dependencies
+3. Install dependencies
 
-```bash
-npm install
-```
+  ```bash
+  npm install
+  ```
 
-### 4. Run the application
+4. Run the application
 
-```bash
-npm start
-```
+  ```bash
+  npm start
+  ```
 
 ## Project Structure
 
