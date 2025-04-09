@@ -42,3 +42,11 @@ npm install
 ```bash
 npm start
 ```
+
+## Project Structure
+
+- **src/**: Contains the main files of the application.
+  - **components/**: Main components like the todo list and todo items.
+  - **store/**: Contains the Zustand configuration to manage the todo list state.
+  - **App.tsx**: Main component that renders the application.
+  - **index.tsx**: The entry point for the application.   
